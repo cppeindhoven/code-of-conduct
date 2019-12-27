@@ -1,8 +1,8 @@
-This repository contains the Eindhoven C++ meetup Code of Conduct which is:
+This repository contains the C++ Eindhoven meetup Code of Conduct which is:
 
 * A set of rules regarding appropriate behavior and procedures for dealing with
     violations of those rules.
-* Intended for use at C++ community events.
+* Intended for use at C++ Eindhoven community events.
 * Generic; concrete event details, contact info, etc have been replaced with
     generic placeholders.
 
