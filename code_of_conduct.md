@@ -1,4 +1,4 @@
-Cpp Eindhoven Code of Conduct, Version 1.0
+C++ Eindhoven Code of Conduct, Version 1.0
 ===========================================
 
 Introduction
