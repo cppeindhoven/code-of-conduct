@@ -4,14 +4,14 @@ C++ Eindhoven Code of Conduct, Version 1.0
 Introduction
 ------------
 
-Cpp Eindhoven is a community intended for networking and
+C++ Eindhoven is a community intended for networking and
   collaboration in the C++ world community.
 
 We value the participation of each member of the Cpp Eindhoven community and
   want all attendees to have an enjoyable and fulfilling experience.
 Accordingly, all participants are expected to show respect and courtesy to
   other participants throughout the conference and at all conference events,
-  whether officially sponsored by Cpp Eindhoven or not.
+  whether officially sponsored by C++ Eindhoven or not.
 
 To make clear what is expected, all attendees, speakers, exhibitors, sponsors,
   vendors and conference staff at all Cpp Eindhoven events are required to
@@ -41,7 +41,7 @@ All communication should be appropriate for a professional audience including
 Be kind to others. Do not insult or put down other attendees.
 Sexual language and imagery is not appropriate for any conference venue,
   including talks.
-Excessive swearing and offensive jokes are not appropriate for %%CONFERENCE%%.
+Excessive swearing and offensive jokes are not appropriate for C++ Eindhoven Meetup.
 
 We do not tolerate harassment of conference participants in any form.
 If a participant engages in behavior that violates this code of conduct, the
